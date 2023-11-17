@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Obsidian.md",
+                "file": "PTB/PTB Artbook.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Another One.md",
+                "file": "PTB/PTB Artbook.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d9ca9e51bf2821f4",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Another One.md",
+                "file": "PTB/PTB Artbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Another One.md",
+                "file": "PTB/PTB Artbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Another One.md"
+                "file": "PTB/PTB Artbook.md"
               }
             }
           }
@@ -159,9 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75f2a642a14a9635",
+  "active": "e9fe2b57854cde09",
   "lastOpenFiles": [
-    "My Obsidian.md",
-    "Another One.md"
+    "PTB",
+    "My Long-term Goals.md",
+    "PTB/PTB Artbook.md"
   ]
 }
