@@ -4,35 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "fa2d73a19d60d19f",
+        "id": "453f106ea50eb9f0",
         "type": "tabs",
         "children": [
           {
-            "id": "2778ae89276bf6e1",
+            "id": "b69494e110c3ca71",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c44f58f9ff1b05b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PTB/PTB Artbook.md",
+                "file": "Selenium.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "75f2a642a14a9635",
+            "id": "cccff44aa362c8c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PTB/PTB Artbook.md",
+                "file": "WG Gesucht 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d970c3eb60fbad8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vermietung WG.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PTB/PTB Artbook.md",
+                "file": "Vermietung WG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PTB/PTB Artbook.md",
+                "file": "Vermietung WG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PTB/PTB Artbook.md"
+                "file": "Vermietung WG.md"
               }
             }
           }
@@ -159,10 +179,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9fe2b57854cde09",
+  "active": "d970c3eb60fbad8e",
   "lastOpenFiles": [
+    "WG Gesucht 2023.md",
+    "Vermietung WG.md",
+    "Selenium.md",
+    "PTB/Praktikum an der PTB.md",
+    "Uzbekistan.md",
+    "Pasted image 20231121182034.png",
+    "PTB/PTB Artbook.md",
     "PTB",
-    "My Long-term Goals.md",
-    "PTB/PTB Artbook.md"
+    "My Long-term Goals.md"
   ]
 }
